@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this corpus, please cite it as below."
+title: "EU AI Act Corpus: Regulation (EU) 2024/1689 in all 24 official EU languages"
+type: dataset
+authors:
+  - family-names: "Bazyar"
+    given-names: "Said"
+    affiliation: "Dominion Capital AB"
+    website: "https://www.regulatoryai.eu/"
+date-released: "2026-05-31"
+version: "1.0.0"
+license: CC-BY-4.0
+repository-code: "https://github.com/saidbazyar/eu-ai-act-corpus"
+url: "https://www.regulatoryai.eu/"
+keywords:
+  - EU AI Act
+  - Regulation 2024/1689
+  - artificial intelligence regulation
+  - European Union law
+  - multilingual corpus
+  - legal informatics
+  - AI compliance
+abstract: >-
+  Verbatim text of Regulation (EU) 2024/1689 (the EU Artificial Intelligence
+  Act) in all 24 official EU languages, sourced from EUR-Lex / EU Publications
+  Office CELLAR. Covers all 113 Articles, 180 Recitals, and Annex sections,
+  with stable identifiers, parallel structure across languages, and a unified
+  JSON schema. Released under EU Decision 2011/833/EU (text) and CC BY 4.0
+  (curation/metadata).
+preferred-citation:
+  type: dataset
+  title: "EU AI Act Corpus: Regulation (EU) 2024/1689 in all 24 official EU languages"
+  authors:
+    - family-names: "Bazyar"
+      given-names: "Said"
+  year: 2026
+  publisher:
+    name: "Sovereign AI Act / Dominion Capital AB"
+  url: "https://github.com/saidbazyar/eu-ai-act-corpus"
