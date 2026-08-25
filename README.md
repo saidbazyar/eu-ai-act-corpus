@@ -151,13 +151,13 @@ The body text of all Articles, Recitals, and Annexes is published by the **Europ
 
 The selection, structural schema, identifiers, and curation in this repository are licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** licence — <https://creativecommons.org/licenses/by/4.0/>.
 
-When citing or redistributing this corpus, please attribute to **Sovereign AI Act / Dominion Capital AB** with a link to <https://www.regulatoryai.eu/>.
+When citing or redistributing this corpus, please attribute to **Sovereign AI Act / Dominion Intelligence AB** with a link to <https://www.regulatoryai.eu/>.
 
 ## Citation
 
 If you use this corpus in research, journalism, or downstream products, please cite it. A machine-readable citation lives in `CITATION.cff`. Suggested human-readable citation:
 
-> Bazyar, S. (2026). *EU AI Act Corpus: Regulation (EU) 2024/1689 in all 24 official EU languages.* Sovereign AI Act / Dominion Capital AB. <https://github.com/saidbazyar/eu-ai-act-corpus>
+> Bazyar, S. (2026). *EU AI Act Corpus: Regulation (EU) 2024/1689 in all 24 official EU languages.* Sovereign AI Act / Dominion Intelligence AB. <https://github.com/saidbazyar/eu-ai-act-corpus>
 
 ## Not legal advice
 
@@ -165,6 +165,6 @@ This corpus is provided for research, compliance support, and informational use.
 
 ## Maintained by
 
-[**Sovereign AI Act**](https://www.regulatoryai.eu/) — operated by **Dominion Capital AB** (Stockholm, EU). Frankfurt-hosted, Schrems II-safe compliance operating system for the EU AI Act.
+[**Sovereign AI Act**](https://www.regulatoryai.eu/) — operated by **Dominion Intelligence AB** (Stockholm, EU). Frankfurt-hosted, Schrems II-safe compliance operating system for the EU AI Act.
 
 Issues and pull requests welcome.
