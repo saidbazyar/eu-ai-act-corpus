@@ -175,5 +175,12 @@
     "name": "RegulatoryAI",
     "organisation": "Dominion Intelligence AB",
     "url": "https://www.regulatoryai.eu/"
-  }
+  },
+  "law_version": "original_2024",
+  "law_version_date": "2024-07-12",
+  "law_source_type": "official_journal",
+  "law_source_url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
+  "original_act": "Regulation (EU) 2024/1689",
+  "amending_acts": [],
+  "law_version_note": "This dataset is the ORIGINAL 2024 Official Journal text. It is not the consolidated text as of 27 July 2026 and does not include amendments made by Regulation (EU) 2026/1744."
 }
