@@ -4,8 +4,13 @@ This repository contains two layers with different licence terms.
 1. The text of Regulation (EU) 2024/1689 (the EU AI Act)
 ═══════════════════════════════════════════════════════════════════════════
 
+Text of Regulation (EU) 2024/1689 and related official EU material:
+© European Union. Reuse subject to the applicable EU reuse terms, including
+Commission Decision 2011/833/EU where applicable.
+
 The body text of all Articles, Recitals, and Annexes — contained in the JSON
-files under data/<lang>/ — is published by the European Union.
+files under data/<lang>/ — is published by the European Union. Dominion
+Intelligence AB claims no copyright in the text of the law itself.
 
 Reuse is authorised under Commission Decision 2011/833/EU of 12 December
 2011 on the reuse of Commission documents (OJ L 330, 14.12.2011, p. 39),
@@ -17,7 +22,9 @@ provided that the source is acknowledged.
 2. Structure, schema, metadata, and curation of this dataset
 ═══════════════════════════════════════════════════════════════════════════
 
-Copyright (c) 2026 Sovereign AI Act / Dominion Intelligence AB
+Dataset structure, metadata and original curation:
+© 2026 Dominion Intelligence AB. Licensed under CC BY 4.0 except where
+otherwise stated.
 
 The selection, JSON schema, identifiers, language-presence matrix, manifest,
 and curatorial choices in this repository are licensed under the Creative
@@ -28,7 +35,7 @@ Commons Attribution 4.0 International Licence (CC BY 4.0).
 You are free to share and adapt the material for any purpose, including
 commercially, provided you give appropriate credit to:
 
-  Sovereign AI Act / Dominion Intelligence AB
+  RegulatoryAI, operated by Dominion Intelligence AB
   https://www.regulatoryai.eu/
   https://github.com/saidbazyar/eu-ai-act-corpus
 
