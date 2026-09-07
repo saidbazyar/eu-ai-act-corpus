@@ -5,7 +5,7 @@ type: dataset
 authors:
   - family-names: "Bazyar"
     given-names: "Said"
-    affiliation: "Dominion Capital AB"
+    affiliation: "Dominion Intelligence AB"
     website: "https://www.regulatoryai.eu/"
 date-released: "2026-05-31"
 version: "1.0.0"
@@ -35,5 +35,5 @@ preferred-citation:
       given-names: "Said"
   year: 2026
   publisher:
-    name: "Sovereign AI Act / Dominion Capital AB"
+    name: "Dominion Intelligence AB"
   url: "https://github.com/saidbazyar/eu-ai-act-corpus"
